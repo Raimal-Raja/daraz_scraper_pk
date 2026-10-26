@@ -1,4 +1,4 @@
-<h1>Daraz 11.11 Top Selling Product Data Analysis</h1>
+<h1>Daraz Top Selling Product Data Analysis</h1>
 
 <div align="center">
   <img src="assets/daraz-11-11-top-selling-project-data-analysis.gif" alt="n8n Workflow Preview" width="85%">
